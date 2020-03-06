@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "creating conflicts ""
+echo "created conflicts ""
 echo "if occurs resolve it and commit"
