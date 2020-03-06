@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "created conflicts ""
+echo "created sdfdsdfs  conflicts ""
 echo "if occurs resolve it and commit"
